@@ -22,27 +22,29 @@
     "url": "https://knowledge.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.shade3d.jp.ico",
     "slug": "shade3-d-knowledge-base",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1762,
     "timeDay": 1888,
     "timeWeek": 1824,
     "timeMonth": 1762,
     "timeYear": 1762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "Shade3D Tutorials",
     "url": "https://tutorials.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/tutorials.shade3d.jp.ico",
     "slug": "shade3-d-tutorials",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1378,
     "timeMonth": 1417,
     "timeYear": 1417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "Shade3D Forum",
