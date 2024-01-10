@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tutorials.shade3d.jp.ico",
     "slug": "shade3-d-tutorials",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1449,
     "timeDay": 2459,
     "timeWeek": 1502,
@@ -62,17 +62,19 @@
     "url": "https://forum.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/forum.shade3d.jp.ico",
     "slug": "shade3-d-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1211,
-    "timeDay": 1369,
-    "timeWeek": 1268,
-    "timeMonth": 1211,
-    "timeYear": 1211,
-    "dailyMinutesDown": {}
+    "time": 1184,
+    "timeDay": 1033,
+    "timeWeek": 1196,
+    "timeMonth": 1184,
+    "timeYear": 1184,
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   }
 ]
