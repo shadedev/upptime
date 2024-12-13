@@ -4,19 +4,19 @@
     "url": "https://shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/shade3d.jp.ico",
     "slug": "shade3-d",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1714,
-    "timeDay": 1830,
-    "timeWeek": 1636,
-    "timeMonth": 1769,
-    "timeYear": 1714,
+    "time": 1715,
+    "timeDay": 1956,
+    "timeWeek": 1691,
+    "timeMonth": 1779,
+    "timeYear": 1715,
     "dailyMinutesDown": {
-      "2024-12-13": 1
+      "2024-12-13": 7
     }
   },
   {
