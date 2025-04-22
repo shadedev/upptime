@@ -4,10 +4,10 @@
     "url": "https://shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/shade3d.jp.ico",
     "slug": "shade3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1695,
@@ -16,6 +16,7 @@
     "timeMonth": 1593,
     "timeYear": 1709,
     "dailyMinutesDown": {
+      "2025-04-22": 1,
       "2025-01-26": 17
     }
   },
