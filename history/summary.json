@@ -77,19 +77,19 @@
     "url": "https://forum.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/forum.shade3d.jp.ico",
     "slug": "shade3-d-forum",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1577,
-    "timeDay": 974,
-    "timeWeek": 1302,
-    "timeMonth": 1496,
-    "timeYear": 1669,
+    "time": 1571,
+    "timeDay": 1037,
+    "timeWeek": 1300,
+    "timeMonth": 1489,
+    "timeYear": 1668,
     "dailyMinutesDown": {
-      "2025-12-20": 0
+      "2025-12-20": 11
     }
   }
 ]
