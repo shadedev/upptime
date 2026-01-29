@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1691,
-    "timeDay": 2082,
-    "timeWeek": 1580,
-    "timeMonth": 1554,
-    "timeYear": 1659,
+    "timeDay": 1336,
+    "timeWeek": 1588,
+    "timeMonth": 1543,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2025-12-07": 43,
       "2025-11-27": 18,
@@ -33,14 +33,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 1106,
-    "timeWeek": 872,
-    "timeMonth": 925,
-    "timeYear": 1164,
-    "dailyMinutesDown": {
-      "2025-01-29": 16
-    }
+    "time": 1298,
+    "timeDay": 788,
+    "timeWeek": 874,
+    "timeMonth": 920,
+    "timeYear": 1163,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shade3D Tutorials",
@@ -54,13 +52,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1141,
-    "timeDay": 1060,
-    "timeWeek": 780,
-    "timeMonth": 789,
-    "timeYear": 927,
-    "dailyMinutesDown": {
-      "2025-01-29": 15
-    }
+    "timeDay": 703,
+    "timeWeek": 794,
+    "timeMonth": 786,
+    "timeYear": 924,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shade3D Forum",
@@ -74,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1574,
-    "timeDay": 1270,
-    "timeWeek": 1196,
-    "timeMonth": 1274,
-    "timeYear": 1639,
+    "timeDay": 1017,
+    "timeWeek": 1207,
+    "timeMonth": 1264,
+    "timeYear": 1635,
     "dailyMinutesDown": {}
   }
 ]
