@@ -28,19 +28,19 @@
     "url": "https://knowledge.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.shade3d.jp.ico",
     "slug": "shade3-d-knowledge-base",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 1105,
-    "timeDay": 865,
-    "timeWeek": 1007,
-    "timeMonth": 978,
-    "timeYear": 961,
+    "timeDay": 960,
+    "timeWeek": 1013,
+    "timeMonth": 981,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-06-07": 10
+      "2026-06-07": 103
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://tutorials.shade3d.jp",
     "icon": "https://icons.duckduckgo.com/ip3/tutorials.shade3d.jp.ico",
     "slug": "shade3-d-tutorials",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
     "time": 1033,
-    "timeDay": 714,
-    "timeWeek": 890,
-    "timeMonth": 830,
-    "timeYear": 832,
+    "timeDay": 791,
+    "timeWeek": 887,
+    "timeMonth": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2026-06-07": 2
+      "2026-06-07": 96
     }
   },
   {
