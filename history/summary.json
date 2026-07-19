@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1667,
-    "timeDay": 1335,
-    "timeWeek": 1578,
-    "timeMonth": 1599,
+    "time": 1666,
+    "timeDay": 1703,
+    "timeWeek": 1589,
+    "timeMonth": 1600,
     "timeYear": 1667,
     "dailyMinutesDown": {
       "2025-09-01": 20,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/knowledge.shade3d.jp.ico",
     "slug": "shade3-d-knowledge-base",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1200,
-    "timeDay": 718,
-    "timeWeek": 846,
+    "time": 1199,
+    "timeDay": 1055,
+    "timeWeek": 862,
     "timeMonth": 927,
-    "timeYear": 961,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2026-06-07": 103
     }
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1057,
-    "timeDay": 735,
-    "timeWeek": 803,
-    "timeMonth": 836,
+    "timeDay": 968,
+    "timeWeek": 821,
+    "timeMonth": 838,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2026-06-07": 96
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1579,
-    "timeDay": 1325,
-    "timeWeek": 1298,
-    "timeMonth": 1494,
-    "timeYear": 1630,
+    "timeDay": 1181,
+    "timeWeek": 1294,
+    "timeMonth": 1487,
+    "timeYear": 1629,
     "dailyMinutesDown": {}
   }
 ]
